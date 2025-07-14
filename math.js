@@ -24,3 +24,12 @@ function isEven(n) {
 function isOdd(n) {
   return !isEven(n);
 }
+
+// A function to sum all numbers in an array.
+// It uses the reduce method to iterate and accumulate the values.
+function sum(numbers) {
+    if (!Array.isArray(numbers)) {
+        return "Error: Input must be an array.";
+    }
+    return numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+}

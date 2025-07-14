@@ -13,3 +13,7 @@ To test these, I ran the functions in my browser's JavaScript console.
 - isOdd(8): Returned `false`. My prediction was correct.
 
 - isOdd(9): Returned `true`. My prediction was correct.
+
+- sum([1, 2, 3, 4]): Returned 10. My prediction was correct.
+
+- sum("hello"): Returned "Error: Input must be an array.". My prediction was correct.

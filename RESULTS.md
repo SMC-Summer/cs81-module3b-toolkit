@@ -5,3 +5,5 @@ To test these, I ran the functions in my browser's JavaScript console.
 - square(4): Returned 16. My prediction was correct.
 
 - multiply(3, 7): Returned 21. My prediction was correct.
+
+- isEven(8): Returned `true`. My prediction was correct.

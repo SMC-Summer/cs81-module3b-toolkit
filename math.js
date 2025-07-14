@@ -7,8 +7,3 @@ function double(n) {
 function square(n) {
   return n * n;
 }
-
-// A function that multiplies two numbers.
-function multiply(a, b) {
-  return a * b;
-}

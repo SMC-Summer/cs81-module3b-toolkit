@@ -12,3 +12,9 @@ function square(n) {
 function multiply(a, b) {
   return a * b;
 }
+
+// A function that checks if a number is even.
+// It uses the modulo operator (%) to see if there's a remainder when dividing by 2.
+function isEven(n) {
+  return n % 2 === 0;
+}

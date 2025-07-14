@@ -7,3 +7,9 @@ To test these, I ran the functions in my browser's JavaScript console.
 - multiply(3, 7): Returned 21. My prediction was correct.
 
 - isEven(8): Returned `true`. My prediction was correct.
+
+- isEven(9): Returned `false`. My prediction was correct.
+
+- isOdd(8): Returned `false`. My prediction was correct.
+
+- isOdd(9): Returned `true`. My prediction was correct.
